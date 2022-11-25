@@ -1,0 +1,83 @@
+{
+    "header": {
+        "header1": {
+            "cellId": "header1",
+            "height": "20vh",
+            "width": "100vw",
+            "backgroundColor": "#e76f51",
+            "widgetIds": []
+        }
+    },
+    "footer": {
+        "footer1": {
+            "cellId": "footer1",
+            "height": "20vh",
+            "width": "100vw",
+            "backgroundColor": "#2a9d8f",
+            "widgetIds": []
+        }
+    },
+    "leftSidebar": {
+        "leftSidebarColumn1": {
+            "cellId": "leftSidebarColumn1",
+            "height": "60vh",
+            "width": "25vw",
+            "backgroundColor": "#0096c7",
+            "widgetIds": []
+        }
+    },
+    "rightSidebar": {
+        "rightSidebarColumn1": {
+            "cellId": "rightSidebarColumn1",
+            "height": "60vh",
+            "width": "25vw",
+            "backgroundColor": "#9e2a2b",
+            "widgetIds": []
+        }
+    },
+    "innerHeader": {
+        "innerHeader1": {
+            "cellId": "innerHeader1",
+            "height": "15vh",
+            "width": "50vw",
+            "backgroundColor": "#8cb369",
+            "widgetIds": []
+        }
+    },
+    "innerFooter": {
+        "innerFooter1": {
+            "cellId": "innerFooter1",
+            "height": "15vh",
+            "width": "50vw",
+            "backgroundColor": "#9d4edd",
+            "widgetIds": []
+        }
+    },
+    "innerLeftSidebar": {
+        "innerLeftSidebarColumn1": {
+            "cellId": "innerLeftSidebarColumn1",
+            "height": "30vh",
+            "width": "15vw",
+            "backgroundColor": "#41ead4",
+            "widgetIds": []
+        }
+    },
+    "innerRightSidebar": {
+        "innerRightSidebarColumn1": {
+            "cellId": "innerRightSidebarColumn1",
+            "height": "30vh",
+            "width": "15vw",
+            "backgroundColor": "#affc41",
+            "widgetIds": []
+        }
+    },
+    "center": {
+        "centerColumn": {
+            "cellId": "centerColumn",
+            "height": "30vh",
+            "width": "20vw",
+            "backgroundColor": "#889696",
+            "widgetIds": [] 
+        }
+    }
+}
