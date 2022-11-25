@@ -4,8 +4,10 @@
     flex-direction: column;
     flex-grow: 1;
     /* min-height: 60vh; */
+    border: 1px solid #ccc;
 }
 .configBtn{
+    z-index: 900;
     position: absolute;
     right: 0;
     top: 0;

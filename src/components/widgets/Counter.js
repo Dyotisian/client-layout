@@ -4,6 +4,7 @@ import styles from '../../css/widgets/Counter.module.css';
 import { Draggable } from '@hello-pangea/dnd';
 import { nanoid } from 'nanoid';
 
+
 function Counter(props){
     const draggableId = props.widget.id + '/////' + nanoid();
 
@@ -28,6 +29,7 @@ function Counter(props){
                     </h3>
                     <h2 className={styles.count}>{props.widget.count}</h2>
                 </div>
+
             )}
         </Draggable>
     )

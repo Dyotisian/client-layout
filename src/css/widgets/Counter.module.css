@@ -6,7 +6,7 @@
     background: #FFFFFF;
     padding-block: .7em;
     flex-grow: 1;
-    margin: 1em;
+    border: 10px inset #ccc;
 }
 .title{
     font-size: 1.2rem;
