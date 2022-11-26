@@ -32,22 +32,42 @@
         }
     },
     "innerHeader": {
-
+        "innerHeader1": {
+            "cellId": "innerHeader1",
+            "height": "15vh",
+            "width": "50vw",
+            "widgetIds": []
+        }
     },
     "innerFooter": {
-
+        "innerFooter1": {
+            "cellId": "innerFooter1",
+            "height": "15vh",
+            "width": "50vw",
+            "widgetIds": []
+        }
     },
     "innerLeftSidebar": {
-  
+        "innerLeftSidebarColumn1": {
+            "cellId": "innerLeftSidebarColumn1",
+            "height": "30vh",
+            "width": "15vw",
+            "widgetIds": []
+        }
     },
     "innerRightSidebar": {
-
+        "innerRightSidebarColumn1": {
+            "cellId": "innerRightSidebarColumn1",
+            "height": "30vh",
+            "width": "15vw",
+            "widgetIds": []
+        }
     },
     "center": {
         "centerColumn": {
             "cellId": "centerColumn",
-            "height": "60vh",
-            "width": "50vw",
+            "height": "30vh",
+            "width": "20vw",
             "widgetIds": [] 
         }
     }
